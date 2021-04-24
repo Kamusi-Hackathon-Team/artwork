@@ -3,7 +3,7 @@
 </br>
 Artwork for Kamusi Project.
 
-# License
+## License
 
 This repo is licensed with [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
